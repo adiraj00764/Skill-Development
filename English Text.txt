@@ -1,0 +1,5 @@
+Hello, today we will learn how to "sign in" to our app
+Locate and touch the application icon
+Click on the "username" and type your name.
+Click on "Password" and type your unique password. Don't tell anyone this.
+In the end, click on sign in.
